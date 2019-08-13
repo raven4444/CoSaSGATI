@@ -1,0 +1,38 @@
+fiction_0: "A scepter owners society is rooming at the inn tonight.  Steal their six scepters."
+text_0: "Steal the six scepters."
+
+fiction_1: "Lord LeBlanc has a map to a diamond mine. Steal the map so Nightfall can jump the claim."
+text_1: "Steal LeBlanc's map."
+
+fiction_2: "HIDDEN BONUS OBJECTIVE"
+text_2:    "Good thinking - you put Stellmach's map in the place of LeBlanc's! (Bonus)"
+
+fiction_3: "If Lord Pearsall makes it to the council meeting tomorrow, he will be able to enact a new tax.  Make him so sick that he will miss the meeting."
+text_3: "Make Lord Pearsall sick so he cannot make it to the meeting tomorrow."
+
+fiction_4: "Lady Verrilli has been scamming people with ice sculptures sold as crystal sculptures.  Ruin her business."
+text_4: "Ruin Lady Verrilli's ice sculpting business."
+
+fiction_5: "When your objectives are accomplished, ring the doorbell (marked on your map), and then go to the meeting place (marked on your map) to find Sheam, who will escort you to The Circle."
+text_5: "When your objectives are accomplished, ring the doorbell (marked on your map), and then go to the meeting place (marked on your map) to find Sheam, who will escort you to The Circle."
+
+fiction_6: "All will be lost if the wrong people know too much.  Do not let any of the guests see you."
+text_6: "Do not let any of the guests see you."
+
+fiction_7: "Under no circumstances are the guests, bar staff, or any of your allies to be harmed... guards, of course, are fair game."
+text_7: "Do not attack the guests, bar staff, or your allies in any way."
+
+fiction_8: "You are only on this mission through Sheam's help. It would be nice if you could find something to give her as a token of your affection. (Optional)"
+text_8: "If you can, nab a token of your affection for Sheam. (Optional)"
+
+fiction_9: "Nightfall indicated that all good thieves set a loot goal for themselves.  Try to find at least 700, but don't let it hold you up if you can't find it all. (Optional)"
+text_9: "Nightfall stressed the importance of a loot goal.  Try to find at least 700. (Optional)"
+
+fiction_10: "Nightfall rewards agents who finish their mission without harming anyone.  At the very least, try to avoid killing. (Optional)"
+text_10: "It would be best if you harmed no one, but at the very least, don't kill.  (Optional)"
+
+fiction_11: "HIDDEN BONUS OBJECTIVE"
+text_11: "No knockouts (Heh heh... except Pearsall!) - Master Nightfall is very impressed. (Bonus)"
+
+fiction_12: "HIDDEN BONUS OBJECTIVE"
+text_12: "You found all the loot, you money grabbing maniac!  Go buy yourself some candy! (Bonus)"

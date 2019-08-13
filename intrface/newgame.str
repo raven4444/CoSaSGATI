@@ -1,0 +1,9 @@
+difficulty: "Difficulty:"
+start_training: "Start Training"
+skip_training: "Gathering at the Inn" 
+options: "Options"
+cancel: "Cancel" 
+
+diff_0:  "All Hints"
+diff_1:  "Some Hints"
+diff_2:  "No Hints"

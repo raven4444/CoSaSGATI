@@ -1,0 +1,46 @@
+! Subtitle Tool by Tomas Zavodny. http://www.tomzavodny.cz
+Synch Point: Side 1 0m00s
+Collisions: Normal
+Timer: 100.0000
+Style: Default,Arial,26,253436,0,16777215,0,-1,0,2,2,2,20,20,10,0,1
+Dialogue: Marked=0,0:00:06.66,0:00:09.33,Default,NTP,0000,0000,0000,!Effect,Nie sta³em siê z³odziejem tak, jak to zazwyczaj bywa.
+Dialogue: Marked=0,0:00:09.66,0:00:13.00,Default,NTP,0000,0000,0000,!Effect,Jeœli w ogóle istnieje jakakolwiek "normalna droga" \Ndo rozpoczêcia ¿ycia na uboczu.
+Dialogue: Marked=0,0:00:13.33,0:00:16.00,Default,NTP,0000,0000,0000,!Effect,By³em silnym cz³owiekiem, wyrzuconym wprost na ulicê.
+Dialogue: Marked=0,0:00:17.33,0:00:20.00,Default,NTP,0000,0000,0000,!Effect,Sta³o siê tak z powodu b³êdu, jaki pope³ni³em,
+Dialogue: Marked=0,0:00:20.66,0:00:23.33,Default,NTP,0000,0000,0000,!Effect,którego zaœ nie traktowa³em jako pomy³ki.\NA¿ do teraz...
+Dialogue: Marked=0,0:00:24.00,0:00:25.33,Default,NTP,0000,0000,0000,!Effect,Dante
+Dialogue: Marked=0,0:00:30.66,0:00:34.66,Default,NTP,0000,0000,0000,!Effect,Ostatniego miesi¹ca namierzono moj¹ kryjówkê...
+Dialogue: Marked=0,0:00:43.33,0:00:49.33,Default,NTP,0000,0000,0000,!Effect,Dwójka moich s¹siadów to niebezpieczne typy, których œciga Stra¿ Miejska.
+Dialogue: Marked=0,0:00:50.66,0:00:57.33,Default,NTP,0000,0000,0000,!Effect,Wszystko, co wiem na ich temat, to fakt, ¿e stoimy po tej samej stronie barykady i pozwalaj¹ mi zatrzymaæ moje przychody.
+Dialogue: Marked=0,0:00:58.00,0:01:02.00,Default,NTP,0000,0000,0000,!Effect,Musia³em wiaæ; bardzo zasmucaj¹ce.
+Dialogue: Marked=0,0:01:02.66,0:01:05.66,Default,NTP,0000,0000,0000,!Effect,Tydzieñ temu mia³em zaaran¿owane spotkanie z nowym paserem.
+Dialogue: Marked=0,0:01:06.00,0:01:08.00,Default,NTP,0000,0000,0000,!Effect,Przed trzema dniami zosta³ zatrzymany...
+Dialogue: Marked=0,0:01:08.66,0:01:11.33,Default,NTP,0000,0000,0000,!Effect,Tym razem Mechaniœci.
+Dialogue: Marked=0,0:01:12.00,0:01:14.66,Default,NTP,0000,0000,0000,!Effect,By³em zdesperowany,\Nczu³em siê s³aby.
+Dialogue: Marked=0,0:01:15.33,0:01:16.66,Default,NTP,0000,0000,0000,!Effect,Nadal jestem...
+Dialogue: Marked=0,0:01:17.33,0:01:20.00,Default,NTP,0000,0000,0000,!Effect,Mia³em tylko dwa wyjœcia.
+Dialogue: Marked=0,0:01:20.66,0:01:24.66,Default,NTP,0000,0000,0000,!Effect,Do³¹czyæ do gildii i p³aciæ wysoki haracz za ochronê
+Dialogue: Marked=0,0:01:25.33,0:01:29.33,Default,NTP,0000,0000,0000,!Effect,b¹dŸ te¿ zapisaæ siê do "stajni" któregoœ z Nadzorców i zostaæ ch³opcem na posy³ki od czarnej roboty, a mo¿e nawet i kimœ gorszym.
+Dialogue: Marked=0,0:01:30.00,0:01:31.33,Default,NTP,0000,0000,0000,!Effect,Nie...
+Dialogue: Marked=0,0:01:31.66,0:01:36.00,Default,NTP,0000,0000,0000,!Effect,W³aœciwie mia³em tylko jedn¹ opcjê...
+Dialogue: Marked=0,0:01:41.33,0:01:45.33,Default,NTP,0000,0000,0000,!Effect,Wstrzyma³em oddech, modl¹c siê,\Nby instynkt mnie nie zawiód³.
+Dialogue: Marked=0,0:01:52.00,0:01:54.66,Default,NTP,0000,0000,0000,!Effect,W mieœcie pojawi³ siê nowy plenipotent.
+Dialogue: Marked=0,0:01:55.33,0:01:58.66,Default,NTP,0000,0000,0000,!Effect,Zdecydowa³em, ¿e pod jego skrzyd³ami\Nznajdê najlepsze miejsce dla siebie.
+Dialogue: Marked=0,0:02:08.66,0:02:12.66,Default,NTP,0000,0000,0000,!Effect,Jeden z plenipotentów, szerzej znany jako Mistrz Nightfall
+Dialogue: Marked=0,0:02:13.33,0:02:17.33,Default,NTP,0000,0000,0000,!Effect,cieszy siê dobr¹ reputacj¹, zatrudniaj¹c utalentowanych agentów.
+Dialogue: Marked=0,0:02:18.00,0:02:20.00,Default,NTP,0000,0000,0000,!Effect,Spotka³em siê z szefow¹ jego zespo³u...
+Dialogue: Marked=0,0:02:20.66,0:02:22.66,Default,NTP,0000,0000,0000,!Effect,...bardzo interesuj¹c¹ kobiet¹ znan¹ jako Sheam.
+Dialogue: Marked=0,0:02:23.33,0:02:28.00,Default,NTP,0000,0000,0000,!Effect,Da³a mi próbne zlecenie. To dziwaczna robota, \Nlecz wiem, ¿e jej podo³am.
+Dialogue: Marked=0,0:02:28.66,0:02:32.00,Default,NTP,0000,0000,0000,!Effect,Moim celem jest "Tawerna pod Posêpnym Be³kotliwcem"
+Dialogue: Marked=0,0:02:32.66,0:02:36.00,Default,NTP,0000,0000,0000,!Effect,i kradzie¿ ber³a nale¿¹cego do Adepta Ognia.
+Dialogue: Marked=0,0:02:37.33,0:02:40.66,Default,NTP,0000,0000,0000,!Effect,Jest on szóstym cz³onkiem Stowarzyszenia Posiadaczy Bere³,
+Dialogue: Marked=0,0:02:41.33,0:02:43.33,Default,NTP,0000,0000,0000,!Effect,które nocuje dziœ w gospodzie.
+Dialogue: Marked=0,0:02:44.00,0:02:46.00,Default,NTP,0000,0000,0000,!Effect,Ha, g³upia, zamo¿na szlachta.
+Dialogue: Marked=0,0:02:46.66,0:02:50.00,Default,NTP,0000,0000,0000,!Effect,W ka¿dym b¹dŸ razie... Nie ma w¹tpliwoœci, ¿e jego wartoœæ przewy¿sza ceny samych czêœci.
+Dialogue: Marked=0,0:02:51.33,0:02:54.00,Default,NTP,0000,0000,0000,!Effect,Moja robota ma wygl¹daæ na czyste w³amanie.
+Dialogue: Marked=0,0:02:54.66,0:02:57.33,Default,NTP,0000,0000,0000,!Effect,By nie wzbudziæ podejrzeñ Bractwa Adeptów Ognia,
+Dialogue: Marked=0,0:02:57.66,0:03:00.66,Default,NTP,0000,0000,0000,!Effect,mam wykraœæ ber³a pozosta³ych cz³onków Stowarzyszenia.
+Dialogue: Marked=0,0:03:01.33,0:03:04.00,Default,NTP,0000,0000,0000,!Effect,I oczywiœcie obrabowaæ tawernê...
+Dialogue: Marked=0,0:03:04.66,0:03:07.33,Default,NTP,0000,0000,0000,!Effect,Lecz na tym siê nie koñczy.
+Dialogue: Marked=0,0:03:08.00,0:03:12.66,Default,NTP,0000,0000,0000,!Effect,Nightfall wszystko wyjaœni³ w liœcie, który mi przekaza³.
+Dialogue: Marked=0,0:03:13.33,0:03:16.00,Default,NTP,0000,0000,0000,!Effect,Ca³kiem sporo tego...
